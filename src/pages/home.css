@@ -1,0 +1,46 @@
+#icon:hover{
+    text-decoration: underline;
+    
+    
+    
+}
+#icon{
+    text-decoration: none;
+    
+}
+#bg div {
+    position: relative;
+    overflow: hidden;
+   transition:.3 ease ;
+  
+   
+
+}
+ img{
+    overflow: hidden;
+    
+
+}
+
+#bg:hover{
+    background: rgb(215, 214, 214);
+    
+    
+}
+#bg:hover img{
+    transform: scale(1.1);
+}
+
+
+#im:hover{
+    height: 470px;
+
+}
+#op{
+   opacity: .8;
+   background: rgb(229, 228, 228);
+}
+#op:hover{
+    background: rgb(186, 185, 185);
+    color: white;
+}

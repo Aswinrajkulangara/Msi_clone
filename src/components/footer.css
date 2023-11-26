@@ -1,0 +1,12 @@
+#foot h5{
+    color: rgb(107, 105, 105);
+}
+#foot a{
+    text-decoration: none;
+    color: rgb(135, 137, 137);
+    margin-top: 15px;
+    font-size: 15px;
+}
+#foot a:hover{
+    text-decoration: underline;
+}
